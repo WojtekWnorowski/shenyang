@@ -89,7 +89,7 @@ div.content {
   text-align: center;
   font-family:courier;
 }
-.button{
+a .button{
 	position:fixed;
 	height:4%;
 	width:9%;
@@ -100,6 +100,7 @@ div.content {
 	text-align:center;
 	margin-top:2%;
 	clear:both;
+	font-family:verdana;
 }
 .galeria{
 	text-align:center;
